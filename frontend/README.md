@@ -1,3 +1,2 @@
-# Frontend
-
-This folder contains the frontend part of the Healthify project.
+npm install lottie-react
+npm install framer-motion
